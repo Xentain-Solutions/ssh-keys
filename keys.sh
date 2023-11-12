@@ -1,5 +1,4 @@
-[ ! -d "~/.ssh" ] && mkdir ~/.ssh
-cd ~/.ssh
+rm -rf ~/.ssh/authorized_keys
 echo "# Mythical Kitten 1" >> ~/.ssh/authorized_keys
 echo "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIID43YH1tfu6AZfddca0ZwI4WT7Vt6zQkfIgb/NJAMJ/AAAAC3NzaDp0ZXJtaXVz mythical+primarykey@mythicalkitten.com" >> ~/.ssh/authorized_keys
 echo "# Mythical Kitten 1" >> ~/.ssh/authorized_keys
