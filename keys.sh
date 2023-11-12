@@ -1,7 +1,7 @@
 rm -rf ~/.ssh/authorized_keys
 echo "# Mythical Kitten 1" >> ~/.ssh/authorized_keys
 echo "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIID43YH1tfu6AZfddca0ZwI4WT7Vt6zQkfIgb/NJAMJ/AAAAC3NzaDp0ZXJtaXVz mythical+primarykey@mythicalkitten.com" >> ~/.ssh/authorized_keys
-echo "# Mythical Kitten 1" >> ~/.ssh/authorized_keys
+echo "# Mythical Kitten 2" >> ~/.ssh/authorized_keys
 echo "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIAbyDRkHtQAlpgCaGuISx4RCgu1mLOZPnHLT1Vxi8Lg+AAAAC3NzaDp0ZXJtaXVz mythical+backupkey@mythicalkitten.com" >> ~/.ssh/authorized_keys
 echo "# Mythical Kitten 3" >> ~/.ssh/authorized_keys
 echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEDygWN35iG9oTCAzcz4anMt5cBKyXLqbjuOR6EOcCZNDOqQpfyxuwWfzcUM+DcxE/S62856m8ppfXF74WzCMyn+o/fpOCCpH+fqPDdDksaEOhcHende/pHZ1S8GJ3H+u+ap37q7GDeIsNedc9Uz4Dvf1NpstShd4wcj/J3dVnf+zZotRlUbqH/KEbwPcELS+CC1BxJOMQ0E5JU4rboQNocOxB8ZwVUoz0qRUQpVvrfODueWOHn22CIVnpXgALo4GWnLg9MzY33jMpuEY9ieUWyHScQx3MVkvhO5fXDGFepmr1BqflrS8nKRiIPbaQ6BGW5Qu/K9fXvj5xuPpX/Xz2m0GeKs+D5SRYiQnncvBY5ndCql2vgzHcqiBMwGFlAwwwcGtT0u8TqMKTeV2DFzzKkFTor/Wes1B0DkN9c6WbwAbgEUutasZDUFpj8zf2fBuS4Qbrk3Qj8TMPW2B2CC9SfZfc0XVtvNIZ+cq65xHUUV9h1i3pZV7BDkY1FSFBQp8= mythical@mythicalkitten.com" >> ~/.ssh/authorized_keys
