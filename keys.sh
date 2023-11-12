@@ -19,6 +19,8 @@ echo "# Hye Fido" >> ~/.ssh/authorized_keys
 echo "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBUDnJKnvLQJjb7xrWmIQ2ZGFBVREUx9GvIgGQn5vj/U8yqOx5TnojqxOksujqaLHXYZAe1qFu+o2XO9+j2QPkc=" >> ~/.ssh/authorized_keys
 echo "# Hye Backup" >> ~/.ssh/authorized_keys
 echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK70sMujS1Cq2tYyIQKg4pkPLQPPtepWIcWUW94tja08" >> ~/.ssh/authorized_keys
+echo "# Tim Primary" >> ~/.ssh/authorized_keys
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAyoOvVcC7ydh/69F+JsSwyMoiaLZL6dL1vFfLVACFGF nicklas@5i.fi" >> ~/.ssh/authorized_keys
 ###########################################################
 echo " "
 echo " "
