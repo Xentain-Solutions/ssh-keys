@@ -17,7 +17,7 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9F8aV0aJRsRsMdgUSHb65ni9u0mGV+KVi6D
 # Hye Primary
 echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG0bmsLzdKA0CmUsFBMv6eCz1IT/LfIvNRY86v99MvuK" >> ~/.ssh/authorized_keys
 # Hye Fido
-echo "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGNwPy4G+HEjtk2ANRq/JDwAs1XSY9UeMxzT6tE9ZSJsBi+eNpGDO41kJ647Uw2Q6oQcLOLiiiq8X/rNBTFWhsk=" >> ~/.ssh/authorized_keys
+echo "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBUDnJKnvLQJjb7xrWmIQ2ZGFBVREUx9GvIgGQn5vj/U8yqOx5TnojqxOksujqaLHXYZAe1qFu+o2XO9+j2QPkc=" >> ~/.ssh/authorized_keys
 # Hye Backup
 echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK70sMujS1Cq2tYyIQKg4pkPLQPPtepWIcWUW94tja08" >> ~/.ssh/authorized_keys
 ###########################################################
