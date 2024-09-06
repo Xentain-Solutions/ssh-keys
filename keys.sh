@@ -17,10 +17,6 @@ echo "# Plactrix Backup" >> ~/.ssh/authorized_keys
 echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9F8aV0aJRsRsMdgUSHb65ni9u0mGV+KVi6DQE71iTZ3vsUyJoyI/mQy0LkAE6KqQ+B/BeuqddAwHFNNKkBtTsNu8IjZkTZmMwtN4+4815J6TmnBXBNPI3s1FOP4bwzxCoXg3QCJgl4VEIbScq9Of0eTYTX5wiGE4sQOXP+VT2epb44ZEfJNCWLp+pGoDhpT5AssGVJzOCr6RbAZG/BYIBpqsXaYSROlJcFDL0cWlv8goQCNBARh9Y5K/BcmsxQNDFdMb4AGRLSs+8SqPm45ymU71rsBqYrQzaEhgn1uhcsNQnFfG+y/UcygV+vRy/MMu3fJXYrUhNij3K93xcJ4JHrit902yPr0geqP9Xi4Kk/IiZcOtuaF/YpsZccUItsnk4Rb5bhn6vumUHCgOZ7uvONOvuwFtOmXsVsLCbAGqtxE688gIs6w2LtZKCRvO40X1YJwnlLFHk5Qve4rg6QuJiFNN3Wzgi3TvrXlxiHKjWPHCA3DyrT7gMXnqwzmxQBSM= ramdo@DESKTOP-KAELAN" >> ~/.ssh/authorized_keys
 echo "# Tim Primary" >> ~/.ssh/authorized_keys
 echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAyoOvVcC7ydh/69F+JsSwyMoiaLZL6dL1vFfLVACFGF nicklas@5i.fi" >> ~/.ssh/authorized_keys
-echo "# Samco Primary" >> ~/.ssh/authorized_keys
-echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDgtYYh8eSSi9/g1jLFE7TVm/Q9yfXGIXmV49AZrgqX7Pesi8Jix86pmxNV8edpArfXmUQEYM3eTQAeIz6/P7Z5XW+17d/SsM+Ksx0Ix6Svk6xVw/hYpGDp3X0caJ2U6drS9msiSSG9RdmoX5p9j8MrlSmLdQLXD93V1nkIaoZbAN0BdSHe9i3erh3qcj0N7k3OfI6fv5VaETV6GXMqSUIDhU7CZChyFcQVOfUsADWfsKNTaG5j/l5oHI7wyAwG0AuPtMyX/twrogIAx8iJi6uPeGVCsJCGWc8+/OX/P4c4j1uSHJBR7IljWwOtkV4ylNTGhtX0Db21mIoiwePYPIkA9MtUH3A2acAjw+BmYlej9bc4zxzA8OMB8kEeU3AcmL+5Zd/Z+gBUoB6Vc+tLxriPds6pqTaJEWhkyUSrNiimUEdgvMwFqo+e1r5R3x8R8pykbD2Yswc0QvzMV/FnkAjsYcFrG/VcRbAPoZMNdKUR/H+pu1TZx+7gcSUXdNm4Z68= samuel@DESKTOP-CVGM7G5" >> ~/.ssh/authorized_keys
-echo "# Tim (Ushio) " >> ~/.ssh/authorized_keys
-echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIxnZW29GD/jV504UfJils55ptODSJW2Tda8XzbfqJP/ srijm@TME-PC" >> ~/.ssh/authorized_keys
 ###########################################################
 echo " "
 echo " "
