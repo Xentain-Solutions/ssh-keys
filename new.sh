@@ -1,3 +1,8 @@
+# Create the authorized_keys file if it doesnt already exist
+if [ ! -f "~/.ssh/authorized_keys" ]; then
+  touch "$AUTHORIZED_KEYS"
+fi
+
 # Add keys
 echo "# Neon" >> ~/.ssh/authorized_keys
 echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCBPMmBWhJMJWlJqnEObPdjbYWgFYZDNtsGFVisqOoDgIaMz/Dq2oimPytdiH69i5AwLlbvaRi6iKJK5+DmOmxZ2f9LNp949sv/7RKPbg6LxkzN5gLtC9mXxr9+oCGYuF71vVkRFhJqoOjqPJrnY0OWFE/dZ/LSFamwdxE1fZmsf6vdR4Bpx1EXg/LFGrVvtTxe7Zi9yXDDNYC2k+M2HTlbu7HNlWEjHHnNZBC1qSZwjjaRJ7r71B9pPuuF4BEvBPRF1YOAXuRTPPS9M4wnvouO5CQ3bOz6JCqbG8oypV5z1wDOFAy1RgPND63inPycYbkvoM0J+Pw5vTVyIOzsZbeh" >> ~/.ssh/authorized_keys
