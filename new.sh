@@ -1,3 +1,8 @@
+# Create the .ssh directory if it doesnt already exist
+if [ ! -d "~/.ssh" ]; then
+  mkdir -p "~/.ssh"
+fi
+
 # Create the authorized_keys file if it doesnt already exist
 if [ ! -f "~/.ssh/authorized_keys" ]; then
   touch "~/.ssh/authorized_keys"
