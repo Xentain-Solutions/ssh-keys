@@ -1,6 +1,6 @@
 # Create the authorized_keys file if it doesnt already exist
 if [ ! -f "~/.ssh/authorized_keys" ]; then
-  touch "$AUTHORIZED_KEYS"
+  touch "~/.ssh/authorized_keys"
 fi
 
 # Add keys
